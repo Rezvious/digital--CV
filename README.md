@@ -32,9 +32,16 @@ As a DL lover, I have good hands on coding with ***Python***, ***Octave***, ***M
 - #### persian 
   ##### Native Spearker
 - #### English
-  #####٫ Fluent
+  ##### Fluent
 - #### French
   ##### Basic (In the Learning Process)
+  
+## Teaching Assistant-Ship
+----------
+- ##### TA at Neuromatch Academy  |  July 2021 – August 2021
+     Teaching Assistant in Comp-Neuro and Deep Learning courses 
+- ##### TA at Circuit Lab  | September 2017 – January 2018
+     At University of Tehran, Iran  
 
 ## Experience
 ----------
@@ -46,6 +53,7 @@ As a DL lover, I have good hands on coding with ***Python***, ***Octave***, ***M
 ## Publications and Talks
 ------
 - I had the opportunity to give a talk in NMC-03 which was titled **"Enhancing classication of autism spectrum disorder using resting-state fMRI with machine learning approach and dimensionlity reduction"**, that was a group work with help of three other friends of mine: Parisa Daj Khosh, Mehrnaz Hosseinzadeh, Yousef Ghanbari. You can see the talk [here](http://url3538.neuromatch.io/ls/click?upn=Y9JGnHmpzDEHL6iaqkHsfjk0y7VSXYTlNoc4z22PQUpAHmcJb3VM88BxEGhX1gZYgW78BSlIQkWeP84kTcJpfQ-3D-3D0UC1_3iBWlz4TiEHNJGCWeA-2BcLba5IgwrA4kfGYnn3vAjgXnHy-2B2A04N5oAcYxb0Ljji-2BhFE4vqJG8fCOmhRK2HcEo4bW9sHbMqHcVkNApMj81SqglYYCMr8Wq3KI23z-2FGGnDw3P1IwVXGtigZy6uXyi22rQgM4eLaioMURgIaVQv6Ab4ZXmiuHXu6kTr2Qwkq-2FNOg33WO-2FE5SffI13GwC-2FwbtkcPfRWJT-2FoZTbQuqWZgMtVf5od4X2DEKDvmHoShWgIlh4LJBcwEzqNUrJc20IDZHA-3D-3D).
+- As a new experience, I had the chance to work with a group of scientist at University of British Columbia to work on Parkinsonian on and off medication cases' EEG, in order to predict EEG for longer than 200 ms timepoints and to investigate the spatio-temporal behavior of each channel and to see the effect of getting medication on each patient. The project is still under research in order to publish it in Frontiers by the end of September (hopefully). The initial name of the paper is **"Investigation of Spectral,Temporal, and Spatial EEG Predictability using independent RNN."**
 - I also am a co-author to a *"to be submitted soon"* paper which is titled **"Hybrid Black Hole algorithm based on a stochastic Markov chain model"**, the first author is Saber Yaghoobi, Phd student at the University of Reno, Nevada, and the third author is Professor Sami M.Fadali from Electrical Engineering department of University of Reno, Nevada.
 
 ## Notable Projects
