@@ -6,7 +6,7 @@
 ## Education
 ---
 - ### University of Tehran | 2017-2020
-   ##### M.S in Analogue Integrated Circuits 
+  ##### M.S in Analogue Integrated Circuits 
 - ### University of Guilan | 2013-2017
   ##### B.S in Electrical Engineering 
    #### Last 60 credits GPA = 16.02/20
@@ -51,10 +51,10 @@ As a DL lover, I have good hands on coding with ***Python***, ***Octave***, ***M
 ## Notable Projects
 ----
 - **Comparing the temporal dynamics of EEG of Parkinsonian’s vs. Healthy Brain**
-    #### This is a very recent project that I started to collaborate with a great team at the UBC University. We are trying to do prediction on EEG data for more than 200ms and by then we can observe and track each patient's behavior to catch wether PD on medication behavior is close to Healthy Control ones or not.
+- ###### This is a very recent project that I started to collaborate with a great team at the UBC University. We are trying to do prediction on EEG data for more than 200ms and by then we can observe and track each patient's behavior to catch wether PD on medication behavior is close to Healthy Control ones or not.
 
 - **MRI Dementia Severity Classification**
-   #### This is a project we did as a group in Bou-Ali University-Hamedan, Iran, datascience competition, based on MRI images that were gathered from Iran Brain Mapping Bank (IBMB). Although the competition is over we still are working on the project and perform it better.
+- ###### This is a project we did as a group in Bou-Ali University-Hamedan, Iran, datascience competition, based on MRI images that were gathered from Iran Brain Mapping Bank (IBMB). Although the competition is over we still are working on the project and perform it better.
 
 - **Design A RNN to Predict UBER Pick-Ups inNY City for Next Hour**
 - **Design A GAN Network to Distinguish Hand-Written and Similar Hand-Written Notes for CIFAR-10 Dataset**
