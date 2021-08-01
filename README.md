@@ -1,5 +1,5 @@
 # Anis Zahedifard 
-### Electrical Engineer 
+### Electrical Engineer Enthusiastic in Neuroscience
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png)LinkedIn](https://www.linkedin.com/in/anis-zahedifard-29570b131/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/Rezvious)
 
