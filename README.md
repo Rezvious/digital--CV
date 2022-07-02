@@ -5,8 +5,10 @@
 
 ## Education
 ---
+- ### Simon Fraser University | Jan 2022-Present
+  ##### MA Student in Neuroscience (BPK department) | Supervisor: Dr. Randy McIntosh
 - ### University of Tehran | 2017-2020
-  ##### M.S in Analogue Integrated Circuits 
+  ##### RA in Analogue Integrated Circuits 
 - ### University of Guilan | 2013-2017
   ##### B.S in Electrical Engineering 
   #### Last 60 credits GPA = 16.02/20
